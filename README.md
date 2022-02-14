@@ -1,1 +1,1 @@
-# Pipelines-in-Machine-Learning
+# Understanding pipelines in machine learning and deep learning better

@@ -11,11 +11,13 @@ Advantages of using Pipeline:
 - Production Ready
 - Clean code writing standards
 - Helpful in iterative hyperparameter tuning and cross-validation evaluation
-- 
+
+
 Challenges in using Pipeline:
 - Proper data cleaning
 - Data Exploration and Analysis
 - Efficient feature engineering
+
 
 Scikit-Learn Pipeline
 - The sklearn.pipeline module implements utilities to build a composite estimator, as a chain of transforms and estimators.
